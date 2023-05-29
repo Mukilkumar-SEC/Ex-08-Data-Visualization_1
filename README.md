@@ -37,7 +37,7 @@ Apply data visualization techniques to identify the patterns of the data.
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-df=pd.read_csv("/content/Superstore (3).csv",encoding='unicode_escape')
+df=pd.read_csv("/content/Superstore.csv",encoding='unicode_escape')
 df
 ```
 
